@@ -1,0 +1,9 @@
+node_modules
+.next
+.vscode
+build
+dist
+*.log
+.env*.local
+.turbo
+package-lock.json
